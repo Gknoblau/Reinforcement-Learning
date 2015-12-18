@@ -1,0 +1,1 @@
+Emu: 0.1 Epi: 0.01 alpha: 0.001 EpiNum: 1000000 Result: -0.028434
